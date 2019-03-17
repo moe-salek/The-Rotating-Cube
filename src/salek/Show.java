@@ -20,7 +20,7 @@ public class Show {
 		frame.setResizable(false);
 		frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
 		frame.setLocationRelativeTo(null);
-		frame.setTitle("Just for fun - by Mohammad Salek, 22 June 2018");
+		frame.setTitle("The Rotating Cube - by Mohammad Salek, 22 June 2018 - Just for Fun :)");
 		frame.add(myPanel);
 		frame.setVisible(true);
 		
