@@ -1,4 +1,4 @@
-#The Rotating Cube
+# The Rotating Cube
 
 Made by Java Swing and AWT.
 
